@@ -9,6 +9,17 @@ Created a SlackBot with NodeJS using third party Yelp API. The SlackBot will del
 * package.json – Works with npm to manage application's dependancies.
 * README.md - This file.
 
+# Languages and Tools used
+    - NodeJS
+    - SlackBot
+    - Axios Promises
+    - Yelp API
+ 
+ # Learning Objectives
+    - Create a REST API with NodeJS
+    - Use an SQLite database to read, create, modify and delete entries
+    - Create HTTP requests in NodeJS to test a REST API
+
 #### Development
 * Make sure you install npm dependances first: `npm install`
 * To run both server and client: `npm run start`
