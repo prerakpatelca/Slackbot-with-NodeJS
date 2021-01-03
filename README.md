@@ -25,3 +25,11 @@ Created a SlackBot with NodeJS using third party Yelp API. The SlackBot will del
 * To run both server and client: `npm run start`
 * To run only server or client: `npm run server|client`
 
+# Output
+
+![alt text](https://github.com/prerakpatelca/Slackbot-with-NodeJS/blob/master/Screen%20Shot%202021-01-03%20at%2010.29.57%20AM.png)
+![alt text](https://github.com/prerakpatelca/Slackbot-with-NodeJS/blob/master/Screen%20Shot%202021-01-03%20at%2010.31.51%20AM.png)
+![alt text](https://github.com/prerakpatelca/Slackbot-with-NodeJS/blob/master/Screen%20Shot%202021-01-03%20at%2010.32.15%20AM.png)
+![alt text](https://github.com/prerakpatelca/Slackbot-with-NodeJS/blob/master/Screen%20Shot%202021-01-03%20at%2010.32.52%20AM.png)
+![alt text](https://github.com/prerakpatelca/Slackbot-with-NodeJS/blob/master/Screen%20Shot%202021-01-03%20at%2010.33.26%20AM.png)
+
